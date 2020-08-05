@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Astha\\DatingApp\\DatingApp.API\\DatingApp.API.csproj": {}
+    "D:\\Astha\\DatingApp\\datingapp.api\\DatingApp.API.csproj": {}
   },
   "projects": {
-    "D:\\Astha\\DatingApp\\DatingApp.API\\DatingApp.API.csproj": {
+    "D:\\Astha\\DatingApp\\datingapp.api\\DatingApp.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Astha\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
+        "projectUniqueName": "D:\\Astha\\DatingApp\\datingapp.api\\DatingApp.API.csproj",
         "projectName": "DatingApp.API",
-        "projectPath": "D:\\Astha\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
+        "projectPath": "D:\\Astha\\DatingApp\\datingapp.api\\DatingApp.API.csproj",
         "packagesPath": "C:\\Users\\astha\\.nuget\\packages\\",
-        "outputPath": "D:\\Astha\\DatingApp\\DatingApp.API\\obj\\",
+        "outputPath": "D:\\Astha\\DatingApp\\datingapp.api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\astha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -38,6 +38,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[3.1.0, )"
@@ -49,6 +53,14 @@
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[3.1.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.7.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.7.1, )"
             }
           },
           "imports": [
