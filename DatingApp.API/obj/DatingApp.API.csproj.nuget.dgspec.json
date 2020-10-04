@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Astha\\DatingApp\\datingapp.api\\DatingApp.API.csproj": {}
+    "D:\\Astha\\DatingApp\\DatingApp.API\\DatingApp.API.csproj": {}
   },
   "projects": {
-    "D:\\Astha\\DatingApp\\datingapp.api\\DatingApp.API.csproj": {
+    "D:\\Astha\\DatingApp\\DatingApp.API\\DatingApp.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Astha\\DatingApp\\datingapp.api\\DatingApp.API.csproj",
+        "projectUniqueName": "D:\\Astha\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
         "projectName": "DatingApp.API",
-        "projectPath": "D:\\Astha\\DatingApp\\datingapp.api\\DatingApp.API.csproj",
+        "projectPath": "D:\\Astha\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
         "packagesPath": "C:\\Users\\astha\\.nuget\\packages\\",
-        "outputPath": "D:\\Astha\\DatingApp\\datingapp.api\\obj\\",
+        "outputPath": "D:\\Astha\\DatingApp\\DatingApp.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\astha\\AppData\\Roaming\\NuGet\\NuGet.Config",

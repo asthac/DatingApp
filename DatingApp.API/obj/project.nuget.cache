@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z7L6j/E7/td6dr1UPe1Rgg93cku7S4HoQl38G7xv8aTwzd6uZLOkWwmxCUVHuUwFfeZT1gdZtTfbDAmqTnK6FA==",
+  "dgSpecHash": "hItoFOBJeYmMjrpZpXL3LWu9ypiXXXh8XWlpt2ixWXxjc02GPnAzpRlCKKUc2mhoRIqnsdlYSkaV7R2atW94EQ==",
   "success": true,
-  "projectFilePath": "D:\\Astha\\DatingApp\\datingapp.api\\DatingApp.API.csproj",
+  "projectFilePath": "D:\\Astha\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\astha\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.6\\microsoft.aspnetcore.authentication.jwtbearer.3.1.6.nupkg.sha512",
     "C:\\Users\\astha\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
